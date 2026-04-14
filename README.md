@@ -1,2 +1,2 @@
-# dsportfolio
-A portfolio site for data science projects
+# Data Science Project Portfolio Site
+A site for my public data science projects
